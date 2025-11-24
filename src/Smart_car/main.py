@@ -140,4 +140,4 @@ if __name__ == "__main__":
     plt.xlabel('时间步')
     plt.ylabel('速度 (m/s)')
     plt.legend()
-    plt.show()
+    plt.show()#预测
